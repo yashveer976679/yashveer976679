@@ -71,4 +71,4 @@ Here are some of my achievements and certifications:
 ---
 ---
 
-> Designed with ❤️ by YASHVEER SINGH
+> Designed with ✨ by YASHVEER SINGH
