@@ -11,7 +11,7 @@
 - **Front-End Web Development** (React, Tailwind, Next.js)
 
 ### 👨‍💻 Projects:
-- You can find all my work here: [My GitHub Repositories](https://github.com/yashveer976679)
+- You can find all my work here: [My GitHub Repositories](https://github.com/yashveer976679?tab=repositories)
 
 ### 💬 Ask Me About:
 - Anything related to **AI, ML, Web Dev, or Myself** 😊
