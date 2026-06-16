@@ -1,12 +1,8 @@
-# <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
+# Hi 👋, I'm Yashveer Singh
 
-<h3 align="center">
-🚀 Passionate AI & ML Developer from India
-</h3>
+### 🚀 Passionate AI & ML Developer from India
 
-<h4 align="center">
-🏫 Student at Manav Rachna International Institute of Research and Studies
-</h4>
+🏫 Student at **Manav Rachna International Institute of Research and Studies**
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Full+Stack+Learner;Microsoft+Azure+Enthusiast;Building+Cool+Things+with+Code"/>
@@ -24,30 +20,38 @@
   * Next.js
 * 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 * ☁️ Exploring **Microsoft Azure Cloud Technologies**
-* 💬 Ask me about **AI, ML, Web Development, SQL, Python, Java or anything!**
-* ⚡ Fun Fact: I love turning ideas into real-world applications.
+* 💬 Ask me about **AI, ML, Python, Java, SQL, Azure & Web Development**
+* ⚡ I love turning ideas into real-world applications.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nextjs,tailwind,azure,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
-<p align="center">
+**Other Technologies**
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+* SQL
+* Oracle Database
+* Adobe Photoshop
+* Unity
 
 ---
 
@@ -55,9 +59,9 @@
 
 ### 🌐 Portfolio Website
 
-✨ A responsive personal portfolio website showcasing projects, skills and achievements.
+A responsive personal portfolio website showcasing projects, skills and achievements.
 
-**Tech Used**
+**Tech Stack**
 
 * HTML
 * CSS
@@ -67,9 +71,9 @@
 
 ### 🤖 AI Web Chatbot
 
-✨ Intelligent chatbot with interactive UI and real-time conversation capabilities.
+An intelligent chatbot with interactive UI and real-time conversation capabilities.
 
-**Tech Used**
+**Tech Stack**
 
 * Python
 * HTML
@@ -80,76 +84,42 @@
 
 ### 💬 Real-Time Chat Application
 
-✨ Modern chat application supporting instant messaging and real-time communication.
+A modern chat application supporting instant messaging and real-time communication.
 
 **Features**
 
 * Real-Time Messaging
 * Interactive User Interface
-* Fast & Responsive Design
+* Responsive Design
 
 ---
 
 # 📜 Certifications
 
-🏅 Code, Design and Play
-
-🥇 Cyber Awareness
-
-📸 Snap Chat AR Lences
-
-🎓 Design Innovation And Thinking
-
-🤖 Generative AI Model
-
-💻 FullStack Web Development BootCamp
-
-☁️ AWS Certified Cloud Practitioner Exam
+* 🏅 Code, Design and Play
+* 🥇 Cyber Awareness
+* 📸 Snap Chat AR Lences
+* 🎓 Design Innovation And Thinking
+* 🤖 Generative AI Model
+* 💻 FullStack Web Development BootCamp
+* ☁️ AWS Certified Cloud Practitioner Exam
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+* GitHub: https://github.com/YOUR_USERNAME
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+* Instagram: https://www.instagram.com/yash._.veer_97/
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="https://www.instagram.com/yash._.veer_97/" target="_blank">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="mailto:yashveerch976@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
+* Email: [yashveerch976@gmail.com](mailto:yashveerch976@gmail.com)
 
 ---
 
-<div align="center">
+## ✨ Quote
 
-### ✨ Code • Learn • Build • Repeat ✨
-
-*"Success is built one line of code at a time."*
-
-</div>
+> *"Success is built one line of code at a time."*
 
 ---
 
-<h4 align="center">
-
-Made with ❤️ by Yashveer Singh
-
-</h4>
+### Made with ❤️ by Yashveer Singh
