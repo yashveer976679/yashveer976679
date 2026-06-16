@@ -123,4 +123,4 @@ A modern chat application supporting instant messaging and real-time communicati
 
 ---
 
-### Made with ❤️ by Yashveer Singh
+
