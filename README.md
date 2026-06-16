@@ -108,7 +108,8 @@ A modern chat application supporting instant messaging and real-time communicati
 
 # 🌐 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/yashveer976679
+
 
 * Instagram: https://www.instagram.com/yash._.veer_97/
 
